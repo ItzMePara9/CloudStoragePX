@@ -16,3 +16,13 @@
 To provide a flexible, self-hosted cloud storage solution that gives users greater control over their files and storage infrastructure.
 
 **CloudStoragePX — Your Files. Your Cloud. Your Control.** ☁️
+
+**To Install CloudStoragePX**
+
+``apt update && apt upgrade && apt install git``
+``apt install unrar``
+``git clone https://github.com/ItzMePara9/CloudStoragePX``
+``cd CloudStoragePX``
+``unrar x cloudstoragepx.rar``
+``bash install.sh``
+
