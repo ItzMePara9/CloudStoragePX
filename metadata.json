@@ -1,0 +1,6 @@
+{
+  "name": "CloudStoragePX",
+  "description": "Premium self-hosted cloud storage web application with AES-256-GCM encryption, granular role-based access control, and complete file management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
